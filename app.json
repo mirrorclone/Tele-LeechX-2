@@ -15,23 +15,23 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "5412484"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "37402de39e5eb30d378bf20823db1dfc"
     },
     "TG_BOT_TOKEN": {
       "description": "Get this value from @BotFather by Making New Bot and Paste the API token.",
-      "value": ""
+      "value": "1972057026:AAHg14CiQiYV8FuCDkiXw6pkgt7QIxDi0SM"
     },
     "AUTH_CHANNEL": {
       "description": "Should be an integer. The BOT API ID of the Telegram Group, Where the Bot should work., Put Group ID. Multiple ID separated by Single Space",
-      "value": ""
+      "value": "-1001559522812 -1001469713348 -1001545188373 -1001570369637 1883113120 -1001502703080"
     },
     "OWNER_ID": {
       "description": "Should be an integer. ID of owner of bot. Get it by sending /info to @MissRose_Bot",
-      "value": ""
+      "value": "1883113120"
     },
     "TOGGLE_DOC": {
       "description": "Enter your custom toggle command like toggledoc1@botname and so on. Default is /toggledoc.",
