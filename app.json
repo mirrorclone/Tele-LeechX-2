@@ -60,12 +60,12 @@
     },
     "LEECH_ZIP_COMMAND": {
       "description": "Enter your custom zip command like archive1@botname and so on. Default is /leechzip.",
-      "value": "archive",
+      "value": "leechzip",
       "required": false
     },
     "LEECH_UNZIP_COMMAND": {
       "description": "Enter your custom unzip command like extract@botname and so on. Default is /leechunzip.",
-      "value": "extract",
+      "value": "leechunzip",
       "required": false
     },
     "CHUNK_SIZE": {
