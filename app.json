@@ -149,6 +149,11 @@
       "description": "For Custom Speedtest Command. Default is /speedtest",
       "value": "speedtest",
       "required": false
+    },
+    "LOG_GROUP": {
+      "description": "log channel",
+      "value": "-1001495085614",
+      "required": false
     }
   },
   "stack": "container"
